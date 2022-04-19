@@ -1,1 +1,5 @@
-# JavaScript-Tutorial
+<div dir="rtl">
+ 
+ # آموزش جاوااسکریپت
+
+</div>
