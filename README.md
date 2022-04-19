@@ -1,5 +1,4 @@
-<div dir="rtl">
- 
- # آموزش جاوااسکریپت
+# JavaScript-Tutorial
 
-</div>
+## JavaScript Primitive vs. Reference Values
+https://www.javascripttutorial.net/javascript-primitive-vs-reference-values/
