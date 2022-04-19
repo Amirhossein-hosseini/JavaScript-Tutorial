@@ -57,8 +57,17 @@ if (adult) {
 console.log(myName);
 // Kyle
 
-console.log(age);
+ console.log(age);
 // Error
 
 
 //end scope
+
+//for example about stack in manage scope
+
+let person  ={
+    name:'sasan',
+    age:22
+}
+
+console.log(person);
